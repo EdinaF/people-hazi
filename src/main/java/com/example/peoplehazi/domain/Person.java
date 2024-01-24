@@ -2,9 +2,6 @@ package com.example.peoplehazi.domain;
 
 import com.example.peoplehazi.dto.incoming.PersonCommand;
 import jakarta.persistence.*;
-import jakarta.validation.constraints.Email;
-import jakarta.validation.constraints.NotNull;
-import jakarta.validation.constraints.Pattern;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
